@@ -2,7 +2,7 @@ applications:
 - name: MemoApp
 disk_quota: 1024M
 memory: 128M
-host: <ホスト名>
+host: TestAppst18
 domain: mybluemix.net
 command: node app.js
 path: .
